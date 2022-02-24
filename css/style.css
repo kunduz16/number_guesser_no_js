@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(85, 211, 190);
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-weight: 900;
+    text-align: center;
+    color: rgb(67, 12, 219);
+}
+
+#game p {
+    font-size: 24px;
+    text-align: center;
+    color: #fff;
+}
+
+#game span {
+    color: red;
+    font-weight: 700;
+}
+
+.message {
+    text-decoration: underline red;
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+}
+
+.input input {
+    margin-right: 10px;
+}
+
+button {
+    background-color: rgb(216, 192, 54);
+    color: rgb(247, 248, 244);
+    font-weight: 700;
+}
